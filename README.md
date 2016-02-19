@@ -38,6 +38,12 @@ sudo usermod -aG docker <your-user-name>
 
 ### Third: Build codes
 * Require Git (If not, try sudo apt-get git)
+* Retreive from GitHub
+
+```
+git clone https://github.com/kekyo/netcore-sample
+```
+
 * Run build.sh
 
 ### Run docker
